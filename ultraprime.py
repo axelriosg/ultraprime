@@ -1,3 +1,5 @@
+#Repositorio do codigo: https://github.com/axelriosg/ultraprime
+
 """Para a realização deste trabalho o usuário pode escolher dois algoritmos, o primeiro é um algoritmo lento, que foi totalmente criado por nós
 usando o Teorema de Wilson que diz que se o resultado de "(n-1)!^2 mod n" é 1, n é primo. Mas após testar nossa primeira abordagem 
 ao problema demorou muito para encontrar os números primos, então pesquisamos melhores métodos. Encontramos um método super rápido
