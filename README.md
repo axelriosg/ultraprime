@@ -51,7 +51,7 @@ Teorema de Wilson
 
 real	1m10,737s
 user	1m10,634s
-sys	    0m0,017s
+sys	   0m0,017s
 ```
 
 The Sieve of Eratosthenes:
@@ -63,5 +63,5 @@ The Sieve of Eratosthenes
 
 real	0m0,042s
 user	0m0,035s
-sys	    0m0,007s
+sys	   0m0,007s
 ```
